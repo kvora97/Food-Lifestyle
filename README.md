@@ -1,11 +1,11 @@
-Food vs Lifestyle
+#Food vs Lifestyle
 
-Research Objective:
+##Research Objective:
 
 Determine how a college student's perception of healthy food and dietary habits affects their academic performance and overall quality of life.
 
 
-Tools & Technologies Used:
+##Tools & Technologies Used:
 
 Python
 NumPy
@@ -18,9 +18,9 @@ scikit-learn
 Natural Language Toolkit
 
 
-Team Members:
+##Team Members:
 
-Kenil Vora
-Harsh Patel
-Tejas Badadare
-Fernando Schaeffer-Araujo
+Kenil Vora <br>
+Harsh Patel <br>
+Tejas Badadare <br>
+Fernando Schaeffer-Araujo <br>
