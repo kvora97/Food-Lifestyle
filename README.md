@@ -7,15 +7,16 @@ Determine how a college student's perception of healthy food and dietary habits 
 
 ## Tools & Technologies Used:
 
-Python <br>
-NumPy <br>
 SciPy <br>
 Patsy <br>
 Pandas <br>
+NumPy <br>
 Seaborn <br>
 matplotlib <br>
 scikit-learn <br>
 Natural Language Toolkit <br>
+
+This project is written in a Jupyter Notebook <br>
 
 
 ## Team Members:
