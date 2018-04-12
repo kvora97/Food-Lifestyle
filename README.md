@@ -16,7 +16,7 @@ matplotlib <br>
 scikit-learn <br>
 Natural Language Toolkit <br>
 
-This project is written in a Jupyter Notebook <br>
+This project is developed using Jupyter Notebooks <br>
 
 
 ## Team Members:
